@@ -1,3 +1,10 @@
 Primeira Aula de GitHub - 2021 - LTV
 
 Prof. Aloísio Sousa
+
+Lista dos alunos que estão na aula:
+
+1 - Hítalo
+2 - Gabryel
+3 - Adryelli
+4 - Milena
